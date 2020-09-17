@@ -1,0 +1,68 @@
+body{
+    background-image: url("../images/366430.jpg");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    width: 100%;
+}
+#photoBanner {
+    border-radius: 25px;
+    padding: .5%;
+   
+}
+#aboutMe{
+    border-radius: 25px;
+}
+#aboutMe :hover {
+color: lightskyblue;
+}
+#interests {
+    border-radius: 25px;
+}
+#interests :hover {
+    color: lightskyblue;
+}
+.underlined{
+    text-decoration: underline;
+}
+#workHistory {
+    border-radius: 25px;
+    
+}
+#workHistory :hover {
+    color: lightskyblue;
+}
+#education {
+    border-radius: 25px;
+    
+}
+#education :hover {
+    color: lightskyblue;
+}
+#portfolio{
+text-align: center;
+text-size-adjust: 70%;
+border-radius: 25px;
+}
+#portfolio :hover {
+    color: lightskyblue;
+}
+#chartMasterImg {
+    height: 150px;
+}
+#findDineImg {
+    height: 150px;
+}
+#readMeImg {
+    height: 150px;
+}
+#linkedIn{
+    border-radius: 25px;
+}
+#resumePdf {
+text-align: center;
+border-radius: 25px;
+}
+#resumePdf :hover {
+    color: lightskyblue;
+}
