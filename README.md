@@ -1,5 +1,7 @@
  # Matthew Nelson: FullStack Web Developer
-  apm/1/undefined
+  ## Deployed Site
+  
+  https://mnelson86.github.io/matt-nelson/
 
   ## Description
 
@@ -11,31 +13,12 @@
   
   * [Usage](#usage)
 
-  https://img.shields.io/badge/undefined-mnelson86-blue
-
-  * [Contributing](#contributing)
-
-  * [Test](#test)
-
   * [Questions](#questions)
 
-  ## Installation
-  To install the necessary depepndencies, use the following command:
-
-  N/A
 
   ## Usage
 
   Summary and Portfolio of Matthew Nelson
-
-  ## Contributing
-
-  N/A
-
-  ## Test
-  To run a test, enter the following command:
-
-  undefined
 
   If you have any questions about this repository, please contact me at:
   matthew.p.nelson@uconn.edu
