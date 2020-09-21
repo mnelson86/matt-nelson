@@ -7,14 +7,6 @@
 
   Personal Website for Author Matthew Nelson
 
-  ## Table of Contents
-  
-  * [Installation](#installation)
-  
-  * [Usage](#usage)
-
-  * [Questions](#questions)
-
 
   ## Usage
 
